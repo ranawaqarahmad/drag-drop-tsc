@@ -1,0 +1,20 @@
+{
+  "name": "drag-drop-project",
+  "version": "1.0.0",
+  "description": "Drag drop practice project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "tsc-watch": "tsc -w"
+  },
+  "keywords": [
+    "typescript",
+    "course"
+  ],
+  "author": "Waqar",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
